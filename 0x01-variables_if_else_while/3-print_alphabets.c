@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
  *  * main - starting point of C program
  *   * Return: number - 1
