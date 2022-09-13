@@ -4,7 +4,7 @@
  *   * @c: The character to check for
  *    *
  *     * Return: 1 if @c is lowercase otherwise 0
- *      */
+ **/
 int _isalpha(int c)
 {
 if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
